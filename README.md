@@ -1,19 +1,11 @@
-<table>
-  <tr>
-    <td width="220">
-      <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
-    </td>
-    <td>
-      <h3>💫 About Me</h3>
-      <p>
-        <strong>Full-Stack Software Engineer 🚀</strong><br>
-        Focused on backend systems, scalable web applications, and AI-powered products 🤖<br>
-        Building things that are clean, reliable, and production-ready.
-      </p>
-    </td>
-  </tr>
-</table>
+![](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzExMjQ4NTYsIm5iZiI6MTc3MTEyNDU1NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE1VDAzMDIzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5MDE2Yzk1MGNhODRlYWQ3MTgzNjIwN2ZkNTY1NGIzMDRiZmQwYTdiYzdhMDY3YTQ1ZGRhNzkzZjRmODI2NjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FUOJZIDDZOvw17oOPBAODPtj44zYXw_s0ehw1BVdmkw)
 
+## Yo
+<br>
+<hr>
+Full Stack | AI | Apps
+<hr> 
+<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidds08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddarth-sankar-08102003s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhu2003@gmail.com) 
 
